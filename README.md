@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MalachiPatrick718
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Python, Tableau, SQL
+- 🌱 I’m currently learning Python, Tableau, SQL, Excel
 - 💞️ I’m looking to collaborate on Data Analysis Projects
 - 📫 How to reach me: m.patrick0718@gmail.com
 
