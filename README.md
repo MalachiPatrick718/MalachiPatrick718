@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MalachiPatrick718
-- 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning HTML, CSS, JavaScript, React.js
-- 💞️ I’m looking to collaborate on Front-End Development Projects
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning Python, Tableau, SQL
+- 💞️ I’m looking to collaborate on Data Analysis Projects
 - 📫 How to reach me: m.patrick0718@gmail.com
 
 <!---
